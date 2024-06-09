@@ -1,2 +1,2 @@
 # Jogo-Da-Velha
-Um simples algoritmo de jogo da velha feito em java
+Just a simple algorithm of tic tac toe in java and c#
