@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MS7DTgsChcpRmghLl14ozARneoa/8RnBvrkXme3S/2dTWdwjktjaOT5RUsRmE9JTwDH0w75kVo9jVA/LS7Z1Jg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\victo\\Documents\\Programing\\Coding\\C#\\JogoDaVelha\\JogoDaVelha\\JogoDaVelha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.5\\microsoft.netcore.app.runtime.linux-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.5\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.5.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.5\\microsoft.netcore.app.host.linux-x64.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
