@@ -1,2 +1,0 @@
-D:\Users\victo\Documents\Programing\Coding\C#\JogoDaVelha\JogoDaVelha\bin\Release\net8.0\win-x86-standalone\JogoDaVelha.pdb
-D:\Users\victo\Documents\Programing\Coding\C#\JogoDaVelha\JogoDaVelha\bin\Release\net8.0\win-x86-standalone\JogoDaVelha.exe
